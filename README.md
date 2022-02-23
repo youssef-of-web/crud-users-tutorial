@@ -20,7 +20,7 @@ change the content of MONGO_URI in your .env file with you access URI mongoDB cl
 
 # list of routes (backend)
 
-# add user
+#add user
 
 /api/users (POST)
 
@@ -40,7 +40,7 @@ change the content of MONGO_URI in your .env file with you access URI mongoDB cl
 
 /api/users (POST)
 
-#list of routes (frontend)
+# list of routes (frontend)
 
 / (principal page)
 
