@@ -30,15 +30,15 @@ change the content of MONGO_URI in your .env file with you access URI mongoDB cl
 
 #Get one user
 
-/api/users (POST)
+/api/users/:id (POST)
 
 #Update user
 
-/api/users (POST)
+/api/users/:id (POST)
 
 #Delete one user
 
-/api/users (POST)
+/api/users/:id (POST)
 
 # List of routes (frontend)
 
