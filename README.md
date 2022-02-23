@@ -13,8 +13,8 @@ npm start
 # Together (concurrently)
 npm run dev
 
-# backend base url : http://locahost:3700/
-# frontend base url : http://locahost:3000/
+# backend base url : http://localhost:3700/
+# frontend base url : http://localhost:3000/
 
 change the content of MONGO_URI in your .env file with you access URI mongoDB cloud
 
