@@ -1,16 +1,16 @@
 #crud-users
 
-# server
+# Server
 npm intsall
 
 npm run dev
 
-# client
+# Client
 npm install
 
 npm start
 
-# together (concurrently)
+# Together (concurrently)
 npm run dev
 
 # backend base url : http://locahost:3700/
@@ -18,29 +18,29 @@ npm run dev
 
 change the content of MONGO_URI in your .env file with you access URI mongoDB cloud
 
-# list of routes (backend)
+# List of routes (backend)
 
-#add user
+#Add user
 
 /api/users (POST)
 
-#get all users
+#Get all users
 
 /api/users (GET)
 
-#get one user
+#Get one user
 
 /api/users (POST)
 
-#update user
+#Update user
 
 /api/users (POST)
 
-#delete one user
+#Delete one user
 
 /api/users (POST)
 
-# list of routes (frontend)
+# List of routes (frontend)
 
 / (principal page)
 
